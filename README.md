@@ -13,9 +13,9 @@ We use a discrete Sine Transform to decompose the sine signal into it's componen
 
 The results of examples of our method are shown.  
 <p float="left">
-  <img src="plots/dxa_results_plot.png" alt="DXA" width="200"/>
-  <img src="plots/xray_results_plot.png" alt="X-ray" width="228"/>
-  <img src="plots/mri_results_plot.png" alt="MRI" width="220"/>
+  <img src="plots/dxa_results_plot.png" alt="DXA" width=30%/>
+  <img src="plots/xray_results_plot.png" alt="X-ray" width=34.2%/>
+  <img src="plots/mri_results_plot.png" alt="MRI"/ width=33.1%>
 </p>
 
 To install the environment and run the code run the lines below.
