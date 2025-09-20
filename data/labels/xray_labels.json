@@ -1,0 +1,11 @@
+{
+  "scoliosis": "Scoliosis",
+  "n_curves": 2,
+  "largest_angle_direction": -1,
+  "largest_angle_location": "Thoracic",
+  "angles": [
+    17.761,
+    45.636,
+    24.84
+  ]
+}
