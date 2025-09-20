@@ -7,7 +7,7 @@ A real-valued sine low-dimensional Fourier Sine Series is used to model the shap
 ![alt text](plots/fourier_process.png "An overview of the process and classification")
 
 
-We use a discrete Sine Transform to decompose the sine signal into it's component parts and the Sine componenets are summed for a full or partial reconstruction.
+A Discrete Sine Transform is used to decompose the sine signal into it's component parts and the Sine componenets are summed for a full or partial reconstruction.
 
 ![alt text](plots/summed_sine_coefficients.png "Partial Reconstruction of a Curve")
 
