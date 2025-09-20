@@ -1,7 +1,7 @@
-# modality-agnostic-representation
+# A Modality-Agnostic Representation for Scoliosis Phenotyping
 Code for the MICCAI 2025 ShapeMI workshop paper "A Modality-Agnostic Representation for Scoliosis Phenotyping"
 
-A real-valued sine low-dimensional Fourier Sine Series is used to model the shape of the spine. This allows the spine to be modeled as a ten real-valued sine components, which are fed-into a simple neural network to classify the Phenotypic characteristics of Adolescent Idiopathic Scoliosis. The model is trained soley on DXA dervied representations but a single model can classify across DXA, X-Ray and MRI derived representations.
+A real-valued sine low-dimensional Fourier Sine Series is used to model the shape of the spine. This allows the spine to be modeled as ten real-valued sine components, which are fed into a simple feed-forward neural network to classify the phenotypic characteristics of Adolescent Idiopathic Scoliosis. The model is trained soley on DXA dervied representations but a single model can classify across DXA, X-Ray and MRI derived representations.
 
 
 ![alt text](plots/fourier_process.png "An overview of the process and classification")
